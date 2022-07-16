@@ -1,4 +1,4 @@
-## Voice to text & sitting up ESP32
+## Voice to text & Setting up ESP32
 
 ### THERE ARE TWO TASKS !
 THE ONE TASK IS website for covnverts Voice To Text and i used for this task  HTML & CSS & JS
